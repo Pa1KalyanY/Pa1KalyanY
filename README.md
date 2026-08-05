@@ -68,19 +68,22 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pa1KalyanY&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Pavan's GitHub Stats" />
+  <a href="https://github.com/Pa1KalyanY?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1KalyanY&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <a href="https://github.com/Pa1KalyanY?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/Featured_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pa1KalyanY&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
 <p align="center">
-  <b>💻 Web Development • ⚙️ Automation • ☕ Java Full Stack</b>
+  💻 <b>Web Development</b> •
+  ⚙️ <b>Automation</b> •
+  ☕ <b>Java Full Stack</b>
 </p>
