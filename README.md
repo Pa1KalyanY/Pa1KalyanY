@@ -1,33 +1,206 @@
-<h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pavan Kalyan Yarlagadda</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1kalyany&label=Profile%20views&color=0e75b6&style=flat" alt="pa1kalyany" /> </p>
+<h3 align="center">
+Web Developer & Automation Engineer | Building toward Java Full Stack Development
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pa1kalyany" alt="pa1kalyany" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio Website**
-
-- 🌱 I’m currently learning **Javascript & React Js**
-
-- 💬 Ask me about **Js,Gsap**
-
-- 📫 How to reach me **kalyanyarlagdda66@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OBCdHj0TgnbgyCyucRTTiyJkuGjf56UG/view](https://drive.google.com/file/d/1OBCdHj0TgnbgyCyucRTTiyJkuGjf56UG/view)
-
-- ⚡ Fun fact **I am a fulltime console gamer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pavan kalyan yarlagadda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan kalyan yarlagadda" height="30" width="40" /></a>
-<a href="https://instagram.com/kalyan_introvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyan_introvert" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Pa1KalyanY">
+    <img src="https://komarev.com/ghpvc/?username=Pa1KalyanY&label=Profile%20Views&style=flat-square" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pa1kalyany&show_icons=true&locale=en&layout=compact" alt="pa1kalyany" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1kalyany&show_icons=true&locale=en" alt="pa1kalyany" /></p>
+I'm a Web Developer & Automation professional with hands-on experience building
+business websites, custom web applications, automation workflows, serverless
+integrations, and analytics dashboards.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1kalyany&" alt="pa1kalyany" /></p>
+My work includes developing production websites using **HTML, CSS, JavaScript
+and WordPress**, building workflow automations with **n8n**, integrating
+**Google Apps Script & Google Sheets**, and creating business dashboards using
+**Looker Studio**.
+
+I'm currently strengthening my software engineering skills with a focus on
+**Java Full Stack Development**, particularly Spring Boot, React, REST APIs,
+databases, testing, containerization, CI/CD, and cloud deployment.
+
+- 💻 Experience in Web Development & Automation
+- 🌐 Built and deployed production business websites
+- ⚙️ Built workflow automation systems using n8n
+- 🔗 Worked with serverless APIs and Google Apps Script
+- 📊 Developed analytics dashboards using Looker Studio
+- 🔐 Built token-gated candidate onboarding workflows
+- 📄 Implemented document/resume collection workflows
+- 🚀 Currently transitioning deeper into Java Full Stack Engineering
+
+---
+
+## 🚀 What I'm Currently Learning
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Hibernate / JPA
+  ↓
+PostgreSQL
+  ↓
+React
+  ↓
+Spring Security + JWT
+  ↓
+JUnit / Mockito
+  ↓
+Maven
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+AWS
+🛠️ Technical Skills
+💻 Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
+
+HTML5 • CSS3 • JavaScript ES6+ • React
+
+☕ Backend & Java
+<p> <img src="https://skillicons.dev/icons?i=java,spring,maven" /> </p>
+
+Java • Spring Boot • REST APIs • Maven
+
+Currently strengthening Spring Boot and backend development through hands-on projects.
+
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
+
+SQL • PostgreSQL • MySQL • MongoDB / NoSQL
+
+⚙️ Automation & Integrations
+
+n8n • Pabbly • MailerLite • AiSensy • Google Apps Script • Google Sheets
+
+I have worked on workflow automation, email automation, lead processing,
+state tracking, API integrations, and business process automation.
+
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=wordpress" /> </p>
+
+WordPress • Divi • Elementor • Responsive Web Design • Custom HTML/CSS/JS
+
+🔧 Development Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+
+Git • GitHub • VS Code • Postman
+
+☁️ DevOps & Cloud — Learning
+<p> <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /> </p>
+
+Docker • GitHub Actions • CI/CD • AWS
+
+🔥 Featured Projects
+🔐 AARA TECH — Token-Based Secure Candidate Onboarding Platform
+
+A corporate IT staffing platform featuring:
+
+Token-gated candidate onboarding
+Multi-step document collection
+File validation and processing
+Candidate application workflows
+Dynamic job management
+Admin Command Center
+Candidate token generation
+Google Apps Script serverless backend
+Google Sheets integration
+
+Tech:
+HTML5 CSS3 JavaScript ES6+ Google Apps Script Google Sheets
+
+⚡ ClinisolTech — Serverless JavaScript SPA
+
+A production IT staffing and technology consulting website built as a
+custom Single Page Application.
+
+Key engineering features:
+
+Vanilla JavaScript SPA architecture
+HTML5 History API routing
+Clean URL navigation
+GSAP & ScrollTrigger animations
+Interactive service filtering
+Candidate resume submission
+FileReader API integration
+Google Apps Script backend
+Google Sheets / Drive integration
+Apache .htaccess SPA routing
+HTTPS redirects
+Security headers
+Technical SEO
+JSON-LD structured data
+
+Tech:
+HTML5 CSS3 JavaScript ES6+ GSAP Google Apps Script
+
+⚙️ n8n Email Automation Engine
+
+A MailerLite-style email automation workflow designed using n8n and
+Google Sheets.
+
+Features:
+
+Multi-step email sequences
+Dynamic email templates
+Lead state tracking
+Scheduled email progression
+Automation logging
+Error monitoring
+Google Sheets integration
+SMTP email delivery
+
+Tech:
+n8n Google Sheets SMTP HTML Email Templates
+
+🌐 Business Website Development
+
+Developed and deployed responsive business websites using WordPress,
+Divi and Elementor.
+
+Implemented:
+
+Responsive page development
+Lead capture forms
+Automated email notifications
+WhatsApp integration
+Chatbot integration
+Website migration
+Hosting & deployment
+
+Tech:
+WordPress Divi Elementor HTML CSS
+
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pa1KalyanY&show_icons=true&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1KalyanY&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Pa1KalyanY&hide_border=true" /> </p>
+🎯 Current Goal
+
+My goal is to move deeper into Java Full Stack Software Development by
+combining my existing web development and automation experience with modern
+backend engineering.
+
+Currently focusing on:
+
+Java • Spring Boot • React • REST APIs • Hibernate/JPA •
+PostgreSQL • Spring Security • JWT • JUnit • Docker •
+CI/CD • AWS
+
+🤝 Connect With Me
+<p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> <a href="https://github.com/Pa1KalyanY"> <img src="https://skillicons.dev/icons?i=github" height="40" /> </a> </p>
+
+📧 Email: pavankalyan.yarlagadda66@gmail.com
+
+<p align="center"> <b>Building practical systems. Learning deeper engineering. Improving one project at a time.</b> </p> ```
