@@ -1,33 +1,81 @@
-<h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pavan Kalyan Yarlagadda</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1kalyany&label=Profile%20views&color=0e75b6&style=flat" alt="pa1kalyany" /> </p>
+<h3 align="center">Web Developer & Automation Professional | Java Full Stack Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pa1kalyany" alt="pa1kalyany" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio Website**
-
-- 🌱 I’m currently learning **Javascript & React Js**
-
-- 💬 Ask me about **Js,Gsap**
-
-- 📫 How to reach me **kalyanyarlagdda66@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OBCdHj0TgnbgyCyucRTTiyJkuGjf56UG/view](https://drive.google.com/file/d/1OBCdHj0TgnbgyCyucRTTiyJkuGjf56UG/view)
-
-- ⚡ Fun fact **I am a fulltime console gamer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pavan kalyan yarlagadda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan kalyan yarlagadda" height="30" width="40" /></a>
-<a href="https://instagram.com/kalyan_introvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyan_introvert" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pa1KalyanY&label=Profile%20Views&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pa1kalyany&show_icons=true&locale=en&layout=compact" alt="pa1kalyany" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1kalyany&show_icons=true&locale=en" alt="pa1kalyany" /></p>
+- 💻 Experience in **Web Development, Automation & Analytics**
+- 🌐 Built production websites using **HTML, CSS, JavaScript & WordPress**
+- ⚙️ Worked with **n8n, Pabbly, MailerLite & AiSensy**
+- 🔗 Built serverless workflows using **Google Apps Script & Google Sheets**
+- 📊 Created dashboards using **Looker Studio**
+- 🚀 Currently focusing on **Java Full Stack Development**
+- 🌱 Learning **Spring Boot, React, REST APIs, Hibernate/JPA & PostgreSQL**
+- 📫 **kalyanyarlagadda66@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1kalyany&" alt="pa1kalyany" /></p>
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,wordpress,git,github,vscode,figma" />
+</p>
+
+**Automation & Analytics**
+
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-Serverless-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboards-4285F4?style=flat-square)
+![Pabbly](https://img.shields.io/badge/Pabbly-Automation-blue?style=flat-square)
+![MailerLite](https://img.shields.io/badge/MailerLite-Email%20Automation-00A154?style=flat-square)
+
+---
+
+### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,postgres,maven,docker,aws,mongodb" />
+</p>
+
+`Spring Boot` • `REST APIs` • `Hibernate/JPA` • `PostgreSQL` • `React` • `Spring Security` • `JWT` • `JUnit` • `Maven` • `Docker` • `CI/CD` • `AWS`
+
+---
+
+### 🚀 Featured Projects
+
+🔐 **AARA TECH** — Token-gated candidate onboarding & document collection platform  
+⚡ **ClinisolTech** — Vanilla JavaScript SPA with GSAP, serverless APIs & resume processing  
+⚙️ **n8n Email Automation Engine** — Multi-step email automation with lead-state tracking  
+🌐 **WordPress Development** — Responsive business websites with lead & communication integrations
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+  </a>
+  <a href="https://github.com/Pa1KalyanY">
+    <img src="https://skillicons.dev/icons?i=github" height="38" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pa1KalyanY&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1KalyanY&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <b>💻 Web Development • ⚙️ Automation • ☕ Java Full Stack</b>
+</p>
