@@ -71,17 +71,14 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pa1kalyany&show_icons=true&locale=en&layout=compact" alt="pa1kalyany" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pa1KalyanY&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Pavan's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1KalyanY&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1kalyany&show_icons=true&locale=en" alt="pa1kalyany" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=pa1kalyany" alt="pa1kalyany" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pa1KalyanY&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
